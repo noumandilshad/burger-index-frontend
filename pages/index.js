@@ -3,7 +3,7 @@ import Search from '../components/search.component'
 export default function Home () {
   return (
     <div>
-      <h1>Product Search</h1>
+      <h1>Search Dashboard</h1>
       <Search />
     </div>
   )
